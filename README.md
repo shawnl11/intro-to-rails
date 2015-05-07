@@ -44,7 +44,7 @@ Class 5: April 30
 *Controllers. Routes.*
 
 Class 6: May 7  
-*Sessions. Reading and evaluating other people’s code.*
+*Rendering. Sessions. Reading and evaluating other people’s code.*
 
 Class 7: May 14  
 *Security. Authentication.*
