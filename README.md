@@ -44,10 +44,10 @@ Class 5: April 30
 *Controllers. Routes.*
 
 Class 6: May 7  
-*Application Data. Reading and evaluating other people’s code.*
+*Sessions. Reading and evaluating other people’s code.*
 
 Class 7: May 14  
-*Security. Authentication. User Data.*
+*Security. Authentication.*
 
 Class 8: May 21  
 *Emails. Files.*
